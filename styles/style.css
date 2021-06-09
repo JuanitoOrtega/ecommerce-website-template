@@ -1276,7 +1276,7 @@ h1, h2, h3, h4, h5, h6 {
         width: 33.3333333333%;
     }
     .product {
-        height: 345px;
+        height: 303px;
     }
     .grid_sorting_button {
         font-size: 13px;
@@ -1314,7 +1314,7 @@ h1, h2, h3, h4, h5, h6 {
         height: 420px;
     }
     .product {
-        height: 420px;
+        height: 378px;
     }
     .blog_item {
         height: calc(100vw - 30px) / 1.37;
